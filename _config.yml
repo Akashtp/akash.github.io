@@ -52,6 +52,7 @@ education:
    subject: Information Technology 
    school: Cochin University Of Science And Technologies.
 
+#List of interesting Github repo/projects to include - optional
 github:
  - Akashtp/tensorflow
  - Akashtp/Python
