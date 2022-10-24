@@ -29,9 +29,14 @@ skills:
  
 #Work experience is required
 roles:
+ - title: Software Engineer 
+   start: 2022
+   end: Ongoing
+   employer: Tata ELXSI
+   
  - title: Freelance Software Developer
    start: 2020
-   end: Ongoing
+   end: 2022
    employer: Self
 
  - title: Software Developer
@@ -68,6 +73,7 @@ github:
 
 
 intro: |
-  I am a Software Engineer with 2 years experience working in technology. I have primarily worked on the Python, but have worked across a broad range of technologies thereon: Java,  Android and most recently .net. <br/><br/>
+  I am a Software Engineer with 2 years experience working at Tata Elxsi.Currently I am working as in data analytics field. I have primarily worked on the Python, but have worked across a broad range of technologies thereon: Java, and Android. Currently I am
+  using MySQL, python, java and bash scripting for my work.<br/><br/>
   I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code.<br/><br/>
   
